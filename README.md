@@ -22,11 +22,10 @@ I am a student of Economics of Banks, Insurance, and Financial Intermediaries, w
 </p>
 
 ## 🚀 Featured Projects
-*(Note: Portfolio under construction as I complete my current programs)*
 
 - 📂 **Interest Calculator**
   - **Description:** A Python-based application that calculate maturity and investment.
   - **Tools:** Python, Numpy, Matplotlib, Assert
-
+*(Note: Portfolio under construction as I complete my current programs)*
 ---
 💡 *"In God we trust, all others must bring data." – W. Edwards Deming*
