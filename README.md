@@ -9,7 +9,7 @@ I am a student of Economics of Banks, Insurance, and Financial Intermediaries, w
 -  Focusing on: Financial Markets, Econometrics, and Data Analysis.
 -  Currently expanding my technical toolkit through **Harvard's CS50P** and the **WorldQuant University Data Science Lab**.
 -  I'm deeply interested in how machine learning and data engineering can solve complex economic problems.
--  How to reach me: **www.linkedin.com/in/joaquin-heredia-jeri-1089b5334** 
+-  How to reach me: **www.linkedin.com/in/joaquin-heredia-jeri** 
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
